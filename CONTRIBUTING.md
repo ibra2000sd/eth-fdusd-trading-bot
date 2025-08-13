@@ -58,7 +58,7 @@ git clone https://github.com/your-username/eth-fdusd-trading-bot.git
 cd eth-fdusd-trading-bot
 
 # Add the original repository as upstream
-git remote add upstream https://github.com/original-repo/eth-fdusd-trading-bot.git
+git remote add upstream https://github.com/ibra2000sd/eth-fdusd-trading-bot.git
 ```
 
 ### 2. Set Up Development Environment
