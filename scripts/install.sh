@@ -175,7 +175,7 @@ if [ -f "../src/main.py" ]; then
     cp -r ../* .
 else
     # Download from repository (placeholder - replace with actual repo)
-    git clone https://github.com/your-repo/eth-fdusd-trading-bot.git .
+    git clone https://github.com/ibra2000sd/eth-fdusd-trading-bot.git .
 fi
 
 # Create virtual environment
@@ -340,7 +340,7 @@ echo "- Configuration: docs/configuration.md"
 echo "- Trading Strategy: docs/trading_strategy.md"
 echo ""
 echo -e "${GREEN}Support:${NC}"
-echo "- GitHub Issues: https://github.com/your-repo/eth-fdusd-trading-bot/issues"
+echo "- GitHub Issues: https://github.com/ibra2000sd/eth-fdusd-trading-bot/issues"
 echo "- Documentation: https://your-docs-site.com"
 echo ""
 
