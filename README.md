@@ -54,13 +54,13 @@
 
 ### One-Command Installation
 ```bash
-curl -sSL https://raw.githubusercontent.com/your-repo/eth-fdusd-trading-bot/main/scripts/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/ibra2000sd/eth-fdusd-trading-bot/main/scripts/install.sh | bash
 ```
 
 ### Manual Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/eth-fdusd-trading-bot.git
+git clone https://github.com/ibra2000sd/eth-fdusd-trading-bot.git
 cd eth-fdusd-trading-bot
 
 # Run setup script
@@ -238,7 +238,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🆘 Support
 
 ### Community Support
-- [GitHub Issues](https://github.com/your-repo/eth-fdusd-trading-bot/issues)
+- [GitHub Issues](https://github.com/ibra2000sd/eth-fdusd-trading-bot/issues)
 - [Discord Community](https://discord.gg/your-server)
 - [Documentation](https://your-docs-site.com)
 
